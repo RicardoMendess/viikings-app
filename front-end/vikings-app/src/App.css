@@ -1,0 +1,53 @@
+.bg-color-navbar {
+    background-color: #58bebe;
+}
+.card-navbar {
+    width: 18rem;
+}
+.title-name-navbar {
+    text-align: center;
+}
+.c-bg-m {
+    background-image: url(./img/pexels-eberhard-grossgasteiger-1367192.jpg);
+
+}
+
+
+/* Class for add padding in components react */
+.px-5 {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.py-5 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Class for add margin in components react */
+my-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.c-m {
+    margin-top: 10px;
+}
+.c-ce {
+    margin-right: 3.5em;
+    margin-left: 3.5em;
+}
+.t-c {
+    text-align: center;
+}
+
+/* Css for buttons in components react */
+
+.bg-b {
+    background-color: #8fbc8f;
+}
+@media (min-width: 1200px) {
+    .col-c {
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+}
